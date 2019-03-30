@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<log xes.version="1.0" xmlns="http://www.xes-standard.org" xes.creator="Fluxicon Disco">
+	<extension name="Concept" prefix="concept" uri="http://www.xes-standard.org/concept.xesext"/>
+	<extension name="Lifecycle" prefix="lifecycle" uri="http://www.xes-standard.org/lifecycle.xesext"/>
+	<extension name="Time" prefix="time" uri="http://www.xes-standard.org/time.xesext"/>
+	<extension name="Organizational" prefix="org" uri="http://www.xes-standard.org/org.xesext"/>
+	<global scope="trace">
+		<string key="concept:name" value="name"/>
+		<string key="variant" value="string"/>
+	</global>
+	<global scope="event">
+		<string key="concept:name" value="name"/>
+		<string key="lifecycle:transition" value="transition"/>
+		<string key="org:resource" value="resource"/>
+		<date key="time:timestamp" value="2016-02-12T23:35:53.127-03:00"/>
+		<string key="Título" value="string"/>
+		<string key="Autor" value="string"/>
+		<string key="Coordenação_SIGA" value="string"/>
+	</global>
+	<classifier name="Activity" keys="Título"/>
+	<classifier name="Resource" keys="Autor Coordenação_SIGA"/>
+	<string key="lifecycle:model" value="standard"/>
+	<string key="creator" value="Fluxicon Disco"/>
+	<string key="library" value="Fluxicon Octane"/>
+	<trace>
+		<string key="concept:name" value="SIGA-EDU-CDU-EXTEN-028"/>
+		<string key="variant" value="Variant 1"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Especificar SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Especificar SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Revisar Projeto Tela do SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="eunice.palmeira\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:09:00.000-03:00"/>
+			<string key="Título" value="Revisar Projeto Tela do SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="eunice.palmeira"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Revisar Projeto Tela do SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="eunice.palmeira\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T09:09:00.000-03:00"/>
+			<string key="Título" value="Revisar Projeto Tela do SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="eunice.palmeira"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Atualizar Especificação para o SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="ricardo.rubens\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-02T00:10:00.000-03:00"/>
+			<string key="Título" value="Atualizar Especificação para o SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="ricardo.rubens"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Atualizar diagrama de classe SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="ricardo.rubens\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-03T00:10:00.000-03:00"/>
+			<string key="Título" value="Atualizar diagrama de classe SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="ricardo.rubens"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Atualizar Especificação para o SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="ricardo.rubens\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-03T10:10:00.000-03:00"/>
+			<string key="Título" value="Atualizar Especificação para o SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="ricardo.rubens"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Atualizar diagrama de classe SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="ricardo.rubens\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-03T11:10:00.000-03:00"/>
+			<string key="Título" value="Atualizar diagrama de classe SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="ricardo.rubens"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-05T18:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Especificar SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-05T18:07:00.000-03:00"/>
+			<string key="Título" value="Especificar SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Elaborar diagrama de classe  do SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="eunice.palmeira\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-21T00:08:00.000-03:00"/>
+			<string key="Título" value="Elaborar diagrama de classe  do SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="eunice.palmeira"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Revisar diagrama de classe  do SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="eunice.palmeira\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-21T00:08:00.000-03:00"/>
+			<string key="Título" value="Revisar diagrama de classe  do SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="eunice.palmeira"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Atualizar diagrama de classe geral  SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="eunice.palmeira\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-25T00:08:00.000-03:00"/>
+			<string key="Título" value="Atualizar diagrama de classe geral  SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="eunice.palmeira"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Atualizar BD para o SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="eunice.palmeira\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-27T00:08:00.000-03:00"/>
+			<string key="Título" value="Atualizar BD para o SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="eunice.palmeira"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Elaborar Modelo Físico SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="eunice.palmeira\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-27T00:08:00.000-03:00"/>
+			<string key="Título" value="Elaborar Modelo Físico SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="eunice.palmeira"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Elaborar diagrama de classe  do SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="eunice.palmeira\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-27T11:08:00.000-03:00"/>
+			<string key="Título" value="Elaborar diagrama de classe  do SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="eunice.palmeira"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Elaborar Modelo Físico SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="eunice.palmeira\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-27T11:08:00.000-03:00"/>
+			<string key="Título" value="Elaborar Modelo Físico SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="eunice.palmeira"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Atualizar BD para o SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="eunice.palmeira\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-27T11:08:00.000-03:00"/>
+			<string key="Título" value="Atualizar BD para o SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="eunice.palmeira"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Atualizar diagrama de classe geral  SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="eunice.palmeira\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-27T11:08:00.000-03:00"/>
+			<string key="Título" value="Atualizar diagrama de classe geral  SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="eunice.palmeira"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Revisar diagrama de classe  do SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="eunice.palmeira\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-27T11:08:00.000-03:00"/>
+			<string key="Título" value="Revisar diagrama de classe  do SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="eunice.palmeira"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Projetar Tela do SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="eunice.palmeira\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-30T00:07:00.000-03:00"/>
+			<string key="Título" value="Projetar Tela do SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="eunice.palmeira"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Projetar Tela do SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="eunice.palmeira\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-30T01:07:00.000-03:00"/>
+			<string key="Título" value="Projetar Tela do SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="eunice.palmeira"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Atualizar SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="eunice.palmeira\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2010-01-12T13:09:00.000-03:00"/>
+			<string key="Título" value="Atualizar SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="eunice.palmeira"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Atualizar SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="eunice.palmeira\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2010-01-13T00:09:00.000-03:00"/>
+			<string key="Título" value="Atualizar SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="eunice.palmeira"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Atualizar diagrama de classes do SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="rogerio.fragoso\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2011-01-07T00:04:00.000-03:00"/>
+			<string key="Título" value="Atualizar diagrama de classes do SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="rogerio.fragoso"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Atualizar diagrama de classes do SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="rogerio.fragoso\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2011-01-07T15:04:00.000-03:00"/>
+			<string key="Título" value="Atualizar diagrama de classes do SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="rogerio.fragoso"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Atualizar diagrama geral com o SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="breno.terra\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2011-01-08T00:04:00.000-03:00"/>
+			<string key="Título" value="Atualizar diagrama geral com o SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="breno.terra"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Atualizar diagrama geral com o SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="breno.terra\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2011-01-08T10:04:00.000-03:00"/>
+			<string key="Título" value="Atualizar diagrama geral com o SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="breno.terra"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Elaborar Modelo Físico do SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="vinicius.oliveira\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2011-01-16T00:05:00.000-03:00"/>
+			<string key="Título" value="Elaborar Modelo Físico do SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="vinicius.oliveira"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Elaborar Modelo Físico do SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="vinicius.oliveira\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2011-01-16T11:05:00.000-03:00"/>
+			<string key="Título" value="Elaborar Modelo Físico do SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="vinicius.oliveira"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Atualizar descrição do SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="eunice.palmeira\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2011-01-23T00:03:00.000-03:00"/>
+			<string key="Título" value="Atualizar descrição do SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="eunice.palmeira"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Atualizar descrição do SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="eunice.palmeira\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2011-01-23T19:03:00.000-03:00"/>
+			<string key="Título" value="Atualizar descrição do SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="eunice.palmeira"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Atualizar BD do SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="marinaldo.oliveira\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2012-01-16T00:03:00.000-03:00"/>
+			<string key="Título" value="Atualizar BD do SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="marinaldo.oliveira"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Atualizar Diagrama de Classe do SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="francisco.hirano\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2012-01-16T00:03:00.000-03:00"/>
+			<string key="Título" value="Atualizar Diagrama de Classe do SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="francisco.hirano"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Atualizar Modelo Físico do SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="francisco.hirano\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2012-01-16T00:03:00.000-03:00"/>
+			<string key="Título" value="Atualizar Modelo Físico do SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="francisco.hirano"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Atualizar Diagrama de Classe do SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="francisco.hirano\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2012-01-16T11:03:00.000-03:00"/>
+			<string key="Título" value="Atualizar Diagrama de Classe do SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="francisco.hirano"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Atualizar Modelo Físico do SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="francisco.hirano\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2012-01-22T23:03:00.000-03:00"/>
+			<string key="Título" value="Atualizar Modelo Físico do SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="francisco.hirano"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Atualizar BD do SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="marinaldo.oliveira\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2012-01-22T23:03:00.000-03:00"/>
+			<string key="Título" value="Atualizar BD do SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="marinaldo.oliveira"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+	</trace>
+</log>

@@ -1,0 +1,1476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<log xes.version="1.0" xmlns="http://www.xes-standard.org" xes.creator="Fluxicon Disco">
+	<extension name="Concept" prefix="concept" uri="http://www.xes-standard.org/concept.xesext"/>
+	<extension name="Lifecycle" prefix="lifecycle" uri="http://www.xes-standard.org/lifecycle.xesext"/>
+	<extension name="Time" prefix="time" uri="http://www.xes-standard.org/time.xesext"/>
+	<extension name="Organizational" prefix="org" uri="http://www.xes-standard.org/org.xesext"/>
+	<global scope="trace">
+		<string key="concept:name" value="name"/>
+		<string key="variant" value="string"/>
+	</global>
+	<global scope="event">
+		<string key="concept:name" value="name"/>
+		<string key="lifecycle:transition" value="transition"/>
+		<string key="org:resource" value="resource"/>
+		<date key="time:timestamp" value="2016-02-12T23:35:53.127-03:00"/>
+		<string key="Título" value="string"/>
+		<string key="Autor" value="string"/>
+		<string key="Coordenação_SIGA" value="string"/>
+	</global>
+	<classifier name="Activity" keys="Título"/>
+	<classifier name="Resource" keys="Autor Coordenação_SIGA"/>
+	<string key="lifecycle:model" value="standard"/>
+	<string key="creator" value="Fluxicon Disco"/>
+	<string key="library" value="Fluxicon Octane"/>
+	<trace>
+		<string key="concept:name" value="SIGA-EDU-CDU-EXTEN-028"/>
+		<string key="variant" value="Variant 1"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="a"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="e"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+	</trace>
+    <trace>
+		<string key="concept:name" value="SIGA-EDU-CDU-EXTEN-028"/>
+		<string key="variant" value="Variant 1"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="a"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="e"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+	</trace>
+    <trace>
+		<string key="concept:name" value="SIGA-EDU-CDU-EXTEN-028"/>
+		<string key="variant" value="Variant 1"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="a"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="e"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+	</trace>
+    <trace>
+		<string key="concept:name" value="SIGA-EDU-CDU-EXTEN-028"/>
+		<string key="variant" value="Variant 1"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="a"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="e"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+	</trace>
+    <trace>
+		<string key="concept:name" value="SIGA-EDU-CDU-EXTEN-028"/>
+		<string key="variant" value="Variant 1"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="a"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="e"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="SIGA-EDU-CDU-EXTEN-028"/>
+		<string key="variant" value="Variant 1"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="a"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="c"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="b"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="e"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+	</trace>
+    <trace>
+		<string key="concept:name" value="SIGA-EDU-CDU-EXTEN-028"/>
+		<string key="variant" value="Variant 1"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="a"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="b"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="c"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="e"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+	</trace>
+    <trace>
+		<string key="concept:name" value="SIGA-EDU-CDU-EXTEN-028"/>
+		<string key="variant" value="Variant 1"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="a"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="b"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="c"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="e"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+	</trace>
+    <trace>
+		<string key="concept:name" value="SIGA-EDU-CDU-EXTEN-028"/>
+		<string key="variant" value="Variant 1"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="a"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="b"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="c"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="e"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+	</trace>
+    <trace>
+		<string key="concept:name" value="SIGA-EDU-CDU-EXTEN-028"/>
+		<string key="variant" value="Variant 1"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="a"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="b"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="c"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="e"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+	</trace>
+    <trace>
+		<string key="concept:name" value="SIGA-EDU-CDU-EXTEN-028"/>
+		<string key="variant" value="Variant 1"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="a"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="b"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="c"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="e"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+	</trace>
+    <trace>
+		<string key="concept:name" value="SIGA-EDU-CDU-EXTEN-028"/>
+		<string key="variant" value="Variant 1"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="a"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="b"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="c"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="e"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+	</trace>
+    <trace>
+		<string key="concept:name" value="SIGA-EDU-CDU-EXTEN-028"/>
+		<string key="variant" value="Variant 1"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="a"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="b"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="c"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="e"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+	</trace>
+    <trace>
+		<string key="concept:name" value="SIGA-EDU-CDU-EXTEN-028"/>
+		<string key="variant" value="Variant 1"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="a"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="b"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="c"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="e"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="SIGA-EDU-CDU-EXTEN-028"/>
+		<string key="variant" value="Variant 1"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="a"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="d"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="d"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="d"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="e"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+	</trace>
+    <trace>
+		<string key="concept:name" value="SIGA-EDU-CDU-EXTEN-028"/>
+		<string key="variant" value="Variant 1"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="a"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="b"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="c"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="e"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+	</trace>
+    <trace>
+		<string key="concept:name" value="SIGA-EDU-CDU-EXTEN-028"/>
+		<string key="variant" value="Variant 1"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="a"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="c"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="b"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="e"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+	</trace>
+    <trace>
+		<string key="concept:name" value="SIGA-EDU-CDU-EXTEN-028"/>
+		<string key="variant" value="Variant 1"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="a"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="c"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="b"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="e"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+	</trace>
+    <trace>
+		<string key="concept:name" value="SIGA-EDU-CDU-EXTEN-028"/>
+		<string key="variant" value="Variant 1"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="a"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="c"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="b"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="e"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+	</trace>
+    <trace>
+		<string key="concept:name" value="SIGA-EDU-CDU-EXTEN-028"/>
+		<string key="variant" value="Variant 1"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="a"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="c"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="b"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="e"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+	</trace>
+    <trace>
+		<string key="concept:name" value="SIGA-EDU-CDU-EXTEN-028"/>
+		<string key="variant" value="Variant 1"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="a"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="c"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="b"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="e"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+	</trace>
+    <trace>
+		<string key="concept:name" value="SIGA-EDU-CDU-EXTEN-028"/>
+		<string key="variant" value="Variant 1"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="a"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="c"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="b"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="e"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+	</trace>
+    <trace>
+		<string key="concept:name" value="SIGA-EDU-CDU-EXTEN-028"/>
+		<string key="variant" value="Variant 1"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="a"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="c"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="b"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="e"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+	</trace>
+    <trace>
+		<string key="concept:name" value="SIGA-EDU-CDU-EXTEN-028"/>
+		<string key="variant" value="Variant 1"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="a"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="c"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="b"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="e"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+	</trace>
+    <trace>
+		<string key="concept:name" value="SIGA-EDU-CDU-EXTEN-028"/>
+		<string key="variant" value="Variant 1"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="a"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="c"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="b"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="e"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+	</trace>
+    <trace>
+		<string key="concept:name" value="SIGA-EDU-CDU-EXTEN-028"/>
+		<string key="variant" value="Variant 1"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="a"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="b"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="e"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+	</trace>
+    <trace>
+		<string key="concept:name" value="SIGA-EDU-CDU-EXTEN-028"/>
+		<string key="variant" value="Variant 1"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="a"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="c"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="e"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+	</trace>
+    <trace>
+		<string key="concept:name" value="SIGA-EDU-CDU-EXTEN-028"/>
+		<string key="variant" value="Variant 1"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="a"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="d"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="e"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+	</trace>
+    <trace>
+		<string key="concept:name" value="SIGA-EDU-CDU-EXTEN-028"/>
+		<string key="variant" value="Variant 1"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="a"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="d"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="e"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+	</trace>
+    <trace>
+		<string key="concept:name" value="SIGA-EDU-CDU-EXTEN-028"/>
+		<string key="variant" value="Variant 1"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="a"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="d"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="e"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+	</trace>
+    <trace>
+		<string key="concept:name" value="SIGA-EDU-CDU-EXTEN-028"/>
+		<string key="variant" value="Variant 1"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="a"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="d"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="e"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+	</trace>
+    <trace>
+		<string key="concept:name" value="SIGA-EDU-CDU-EXTEN-028"/>
+		<string key="variant" value="Variant 1"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="a"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="d"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="e"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+	</trace>
+    <trace>
+		<string key="concept:name" value="SIGA-EDU-CDU-EXTEN-028"/>
+		<string key="variant" value="Variant 1"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="a"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="d"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="e"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+	</trace>
+    <trace>
+		<string key="concept:name" value="SIGA-EDU-CDU-EXTEN-028"/>
+		<string key="variant" value="Variant 1"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="a"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="d"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="e"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="SIGA-EDU-CDU-EXTEN-028"/>
+		<string key="variant" value="Variant 1"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="a"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="b"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="c"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="e"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+	</trace>
+    <trace>
+		<string key="concept:name" value="SIGA-EDU-CDU-EXTEN-028"/>
+		<string key="variant" value="Variant 1"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="a"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="d"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="e"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+	</trace>
+    <trace>
+		<string key="concept:name" value="SIGA-EDU-CDU-EXTEN-028"/>
+		<string key="variant" value="Variant 1"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="a"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="d"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="e"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+	</trace>
+    <trace>
+		<string key="concept:name" value="SIGA-EDU-CDU-EXTEN-028"/>
+		<string key="variant" value="Variant 1"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="a"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="d"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="e"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+	</trace>
+    <trace>
+		<string key="concept:name" value="SIGA-EDU-CDU-EXTEN-028"/>
+		<string key="variant" value="Variant 1"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="a"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="d"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="d"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="e"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+	</trace>
+    <trace>
+		<string key="concept:name" value="SIGA-EDU-CDU-EXTEN-028"/>
+		<string key="variant" value="Variant 1"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="a"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="d"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="d"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+        <event>
+			<string key="concept:name" value="e"/>
+			<string key="lifecycle:transition" value="start"/>
+			<string key="org:resource" value="cledja.rolim\\Requisitos e Modelagem"/>
+			<date key="time:timestamp" value="2009-01-01T00:07:00.000-03:00"/>
+			<string key="Título" value="Descrever SIGA-EDU-CDU-EXTEN-028"/>
+			<string key="Autor" value="cledja.rolim"/>
+			<string key="Coordenação_SIGA" value="Requisitos e Modelagem"/>
+		</event>
+	</trace>
+</log>
